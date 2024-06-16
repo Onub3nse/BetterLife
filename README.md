@@ -71,6 +71,7 @@ As told before, more to come, recipes, buildings, machines and decorations.
 
             Go into Settings -> Miscellaneous, check Enable Mods, restart the game.
 
-            You can find the latest releases here: [Latest Release]([url](https://github.com/Onub3nse/BetterLife/releases/tag/v0.1.0))
+            You can find the latest releases here: [Latest Release](https://github.com/Onub3nse/BetterLife/releases/tag/v0.1.0)!
+            
 
             
