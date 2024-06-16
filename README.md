@@ -59,9 +59,21 @@ As told before, more to come, recipes, buildings, machines and decorations.
 
 # Instalation:
 
-            Look for a folder in your system drive like this: "C:\Users\Your Username\AppData\Roaming\Captain of Industry\Mods",
-            unzip to that folder, you should see something like:
+            Look for a folder in your system drive like this:
+            "C:\Users\Your Username\AppData\Roaming\Captain of Industry\Mods"
             
+            Unzip to that folder, you should see something like:
+            ![imagen](https://github.com/Onub3nse/BetterLife/assets/43469130/743e3434-5ccc-4bb2-a3d8-6a929724dac8)
+
+            ![imagen](https://github.com/Onub3nse/BetterLife/assets/43469130/40bbfd51-c6f7-4388-95fa-51f8945a5452)
+
+# Enable mods inside the game:
+
+            Go into Settings -> Miscellaneous, check Enable Mods, restart the game.
+
+            You can find the latest 
+
+
             
 
 
