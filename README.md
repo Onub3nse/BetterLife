@@ -64,7 +64,8 @@ As told before, more to come, recipes, buildings, machines and decorations.
             
             Unzip to that folder, you should see something like:
 
-            ![imagen](https://github.com/Onub3nse/BetterLife/assets/43469130/4a96aa80-70f1-4686-8dea-d32d952a1af0)
+![imagen](https://github.com/Onub3nse/BetterLife/assets/43469130/2ac10a22-69ed-4e40-8abd-822f3463fefd)
+
 
 # Enable mods inside the game:
 
