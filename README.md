@@ -26,9 +26,7 @@ The BL2000. Unlocked with 1 Tier of decorations and roads. All the new recipes o
 
 # Tier 1 recipes:
 
-Unlocks:    - Better Assembler
-            - Mixer
-            - Concrete Mixer
+            - Better Assembler, Mixer and Concrete Mixer.
 
             Mixer            - 1 Dirt                            -> 10 Fertilizer               5sec.
             Better Assembler - 1 Iron                            -> 10 Construction Parts       5sec.
@@ -37,6 +35,12 @@ Unlocks:    - Better Assembler
             Better Assembler - 1 Copper + 1 Iron                 -> 10 Electronics              5sec.
             Concrete Mixer   - 5 Dirt + 5 Slag + 1 Water         -> 10 Concrete Slap            5sec.
 
+# Tier 2 recipes:
 
+            - Better Assembler, Mixer and Cracking Unit.
+
+            Mixer            - 5 Dirt + 5 Fertilizer Organic     -> 10 Fertilizer I             5sec.
+            Better Assembler - 1 Construction Parts II           -> 10 Constr. Parts III        5sec.
+            
 
 
