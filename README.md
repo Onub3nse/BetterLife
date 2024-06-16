@@ -24,7 +24,7 @@ Feel free to use it, or not. It's up to you.
 
 The BL2000. Unlocked with 1 Tier of decorations and roads. All the new recipes only works with this machine.
 
-# Tier 1 recipes:
+# Tier 1 recipes (unlock after Construction II):
 
             - Better Assembler, Mixer and Concrete Mixer.
 
@@ -35,12 +35,33 @@ The BL2000. Unlocked with 1 Tier of decorations and roads. All the new recipes o
             Better Assembler - 1 Copper + 1 Iron                 -> 10 Electronics              5sec.
             Concrete Mixer   - 5 Dirt + 5 Slag + 1 Water         -> 10 Concrete Slap            5sec.
 
-# Tier 2 recipes:
+# Tier 2 recipes (unlock after Research Lab II):
 
             - Better Assembler, Mixer and Cracking Unit.
 
             Mixer            - 5 Dirt + 5 Fertilizer Organic     -> 10 Fertilizer I             5sec.
             Better Assembler - 1 Construction Parts II           -> 10 Constr. Parts III        5sec.
+            Better Assembler - 1 Equipment Lab                   -> 10 Equipment Lab II         5sec.
+            Cracking Unit    - 1 Heavy Oil                       -> 10 Naptha                   5sec.
+
+# Tier 3 recipes (unlock after Fertilizers II):
+
+            - Better Assembler, Anaerobic Digester and Chemical Plant.
+
+            Better Assembler - 1 Vehicle Parts + 1 Steel         -> 10 Vehicle Parts II         5sec.
+            Anaerobic Digest - 1 Dirt                            -> 10 Fuel Gas                 5sec.
+            Chemical Plant   - 1 Water - 1 Sulfur                -> 10 Ammonia                  5sec.
+            Chemical Plant   - 1 Water - 1 Sulfur                -> 10 Sulfuric Acid            5sec.
+
+
+As told before, more to come, recipes, buildings, machines and decorations.
+
+
+# Instalation:
+
+            Look for a folder in your system drive like this: "C:\Users\Your Username\AppData\Roaming\Captain of Industry\Mods",
+            unzip to that folder, you should see something like:
+            
             
 
 
