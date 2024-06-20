@@ -9,7 +9,8 @@ Some features still in devlopment. Coming soon.
 Tiered system of roads, can be unlocked in the tech tree.
 For now only tier 1 avaible, and they are pure decoration. As soon as i can they will get modifiers like speed and maintaince.
 
-![imagen](https://github.com/Onub3nse/BetterLife/assets/43469130/438dc644-7cc2-4804-abb4-5d1a423ed259)
+![imagen](https://github.com/Onub3nse/BetterLife/assets/43469130/afafeb6c-890f-4789-825e-282f7f2288fc)
+
 
 # Signs and Walls
 
