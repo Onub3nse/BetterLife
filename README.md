@@ -58,7 +58,7 @@ The BL2000. Unlocked with 1 Tier of decorations and roads. All the new recipes o
 As told before, more to come, recipes, buildings, machines and decorations.
 
 
-# Instalation:
+# Installation:
 
             Look for a folder in your system drive like this:
             "C:\Users\Your Username\AppData\Roaming\Captain of Industry\Mods"
