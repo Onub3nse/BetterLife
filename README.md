@@ -28,15 +28,19 @@ For now only tier 1 avaible, new update!!! Tier 1 roads with +25% speed increase
 # Signs and Walls
 
 A set of signs and walls (adjustable in height). Will add more overtime.
+![imagen](https://github.com/user-attachments/assets/cb5e9d88-8033-48e6-a72c-aaf5c1a04203)
 
 
-# New machine to make the games life better!!!
+Adjustable height, they act like retaining walls.
+
+
+
+# Two new machines to make the games life better!!!
 
 Feel free to use it, or not. It's up to you.
 
-![imagen](https://github.com/Onub3nse/BetterLife/assets/43469130/3309a6c2-9b04-40cb-973f-6e4bc9b9cd7f)
+![imagen](https://github.com/user-attachments/assets/60b952f0-7f59-4af5-8e23-9551b7ff821b)
 
-The BL2000. Unlocked with 1 Tier of decorations and roads. All the new recipes only works with this machine.
 
 # Tier 1 recipes (unlock after Construction II):
 
@@ -67,6 +71,8 @@ The BL2000. Unlocked with 1 Tier of decorations and roads. All the new recipes o
             Chemical Plant   - 1 Water - 1 Sulfur                -> 10 Ammonia                  5sec.
             Chemical Plant   - 1 Water - 1 Sulfur                -> 10 Sulfuric Acid            5sec.
 
+
+# More recipes to come...
 
 As told before, more to come, recipes, buildings, machines and decorations.
 
