@@ -1,8 +1,21 @@
-# BetterLife
+# BetterLife 0.3
 Captain of Industry MOD. Some modifications and new assets to make life easier.
 Some features still in devlopment. Coming soon.
 
-# Decorations
+# Decorations (Buildings with interaction)
+
+McDonalds building:
+![imagen](https://github.com/user-attachments/assets/4a102656-3490-4cb1-9dea-702d0dd5c639)
+
+
+Eachtime vehicles visits this place, you get an extra 0.5 units each 30sec.
+Clicking on building gives you the total of units earned on current session.
+
+Better Fuelstation:
+
+![imagen](https://github.com/user-attachments/assets/e12bc0a7-97cd-4434-8872-70df9546f9fd)
+
+Has alot of more capacity and a new design.
 
 # Roads
 
