@@ -1,4 +1,4 @@
-# BetterLife 0.3
+# BetterLife 0.4
 Captain of Industry MOD. Some modifications and new assets to make life easier.
 Some features still in devlopment. Coming soon.
 
