@@ -1,4 +1,4 @@
-# BetterLife 0.4
+# BetterLife 0.5
 Captain of Industry MOD. Some modifications and new assets to make life easier.
 Some features still in devlopment. Coming soon.
 
@@ -91,7 +91,7 @@ As told before, more to come, recipes, buildings, machines and decorations.
 
             Go into Settings -> Miscellaneous, check Enable Mods, restart the game.
 
-You can find the latest releases here: ([BetterLife.Zip](https://github.com/Onub3nse/BetterLife/releases/download/v0.4/BetterLife.zip))
+You can find the latest releases here: https://github.com/Onub3nse/BetterLife/releases/tag/v0.5
 
             
 
