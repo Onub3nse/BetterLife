@@ -29,7 +29,8 @@ Custom assembler 1 and 2, with custom recipes (the recipes got nerfed a bit, now
             
             Unzip to that folder, you should see something like:
 
-![imagen](https://github.com/Onub3nse/BetterLife/assets/43469130/2ac10a22-69ed-4e40-8abd-822f3463fefd)
+![imagen](https://github.com/user-attachments/assets/7593cf52-4bcb-4a9f-9800-41de35f24cb7)
+
 
 
 # Enable mods inside the game:
